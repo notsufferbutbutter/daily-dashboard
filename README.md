@@ -1,6 +1,9 @@
 # Daily Dashboard
 
 A simple, static dashboard web app that greets you by name, displays the current time, local weather, a random background image, an inspirational quote, and lets you manage a to‑do list—all in one place.
+![alt text](./result/site1.png)
+![alt text](./result/site2.png)
+
 
 ## Features
 
@@ -51,7 +54,6 @@ const API_KEY = 'YOUR_OPEN_WEATHER_API';
 
 3. **Run a local HTTP server**:
 
-- Navigate to the project directory in your terminal.
 - Open the `page.html` path file in your browser 
 
 ## Configuration
