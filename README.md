@@ -1,7 +1,11 @@
 # Daily Dashboard
 
 A simple, static dashboard web app that greets you by name, displays the current time, local weather, a random background image, an inspirational quote, and lets you manage a to‑do list—all in one place.
+
+## Website outcomes
+
 ![alt text](./result/site1.png)
+
 ![alt text](./result/site2.png)
 
 
